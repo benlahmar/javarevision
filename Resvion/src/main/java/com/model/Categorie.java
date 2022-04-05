@@ -8,6 +8,7 @@ public class Categorie {
 	int id;
 	String libelle;
 	
+	
 	List<Livre> livres=new ArrayList<Livre>();
 
 	public int getId() {
